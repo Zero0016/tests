@@ -1,0 +1,93 @@
+@media screen and (max-width: 1920px){
+	#container{
+		width: 1903px;
+		height: 3000px;
+		background-size: 1903px;
+	}
+	.top_menu{
+		width: 1903px;
+		background-size: 1903px;
+	}
+	.about{
+		width: 1903px;
+	}
+	.footer{
+		width: 1903px;
+	}
+}
+
+@media screen and (max-width: 1903px){
+	#container{
+		width: 1349px;
+		background-size:  1349px;
+	}
+	.top_menu{
+		width: 1349px;
+		background-size: 1349px;
+	}
+	.about{
+		width: 1349px;
+		background-size: 555px 350px;
+		background-position: top 0px left 350px; 
+		height: 590px;
+	}
+	.f_content{
+		width: 535px;
+		height: 217px;
+		margin-top: 102px;
+		margin-left: 395px;
+}
+	.logo a>img{
+		width: 90px;
+	}
+	.m_list a>li{
+		margin-top: 21px;
+	}
+	.slider-main{
+		width: 1100px;
+		margin-top: 0;
+	}
+	.s-1{
+		width: 1100px;
+	}
+.footer{
+	width: 1349px;
+}
+.footer-s{
+	width: 1100px;
+	height: 236px;
+	margin-left: 125px;
+}
+
+.f-adress{
+	width: 1100px;
+	height: 88px;
+	display: flex;
+	flex-direction: row;
+	border-bottom: 1px solid #ffffff;
+}
+
+.f-menu{
+	width: 1100px;
+	height: 98px;
+	border-bottom: 1px solid white;
+}
+.fm1{
+	width: 80px;
+	height: 98px;
+	float: left;
+}
+
+.fm2{
+	width: 51px;
+	height: 98px;
+	float: left;
+	margin-left: 110px;
+}
+
+.fm3{
+	width: 171px;
+	height: 98px;
+	float: left;
+	margin-left: 139px;
+}
